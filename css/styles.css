@@ -1,0 +1,20 @@
+
+img{
+    width: 80%;
+    padding-bottom: 5em;
+}
+body{
+    background-color: rgb(61, 61, 61);
+}
+div{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    color: white;
+    margin-right: 15em;
+    margin-left: 15em;
+    background-color: rgb(86, 83, 102);
+    box-shadow: 5px 10px 8px black;
+}
+div section, h2{
+    padding-left: 11em;
+}
